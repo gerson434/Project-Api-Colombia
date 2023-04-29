@@ -1,12 +1,12 @@
 # Installation Guide for API-colombia
 ==================================================
 
-This is a guide to help you install Project-Gers-yake, a React-Native project built with Expo.
+This is a guide to help you install Project-Api-Colombia, a React-Native project built with Expo.
 
 ## Prerequisites
 -------------
 
-Before installing Project-Gers-yake, make sure you have the following software installed on your machine:
+Before installing Project-Api-Colombia, make sure you have the following software installed on your machine:
 
 -   Node.js (version 14 or higher)
 -   npm (version 6 or higher)
@@ -51,12 +51,12 @@ If you're developing for Android, you'll need to have an Android emulator or dev
 
 `expo android`
 
-1.  You should now see the Project-Gers-yake app running in the simulator or on your device.
+1.  You should now see the Project-Api-Colombia app running in the simulator or on your device.
 
 ## Conclusion
 ----------
 
-Congratulations, you have successfully installed Project-Gers-yake on your machine using Expo! You can now start developing new features and making improvements to the app.
+Congratulations, you have successfully installed Project-Api-Colombia on your machine using Expo! You can now start developing new features and making improvements to the app.
 
 # React Native Colombia Info App
 ==============================
